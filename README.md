@@ -1,4 +1,4 @@
-# API Calls Exeperiments using Rust
+# API Call Exeperiment
 
 ## What does the app do ?
 Once it is running, the programm makes a request to "https://api.github.com/repos/owner/repo/stargazers" (replace **owner** within the url with: **rust-lang-nursery** and **repo** with: **rust-cookbook**) and displays the body of the response.

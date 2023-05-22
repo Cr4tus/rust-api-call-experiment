@@ -1,5 +1,5 @@
 [package]
-name = "api-calls-experiments-using-rust"
+name = "rust-api-call-experiment"
 version = "0.1.0"
 edition = "2021"
 
